@@ -1,0 +1,5 @@
+/root/.vs/Test_task/CMakeFiles/rebuild_cache.dir
+/root/.vs/Test_task/CMakeFiles/edit_cache.dir
+/root/.vs/Test_task/Test_task/CMakeFiles/rebuild_cache.dir
+/root/.vs/Test_task/Test_task/CMakeFiles/edit_cache.dir
+/root/.vs/Test_task/Test_task/CMakeFiles/Test_task.dir

@@ -1,0 +1,5 @@
+/root/.vs/client/out/build/linux-debug/CMakeFiles/rebuild_cache.dir
+/root/.vs/client/out/build/linux-debug/CMakeFiles/edit_cache.dir
+/root/.vs/client/out/build/linux-debug/client/CMakeFiles/rebuild_cache.dir
+/root/.vs/client/out/build/linux-debug/client/CMakeFiles/edit_cache.dir
+/root/.vs/client/out/build/linux-debug/client/CMakeFiles/client.dir

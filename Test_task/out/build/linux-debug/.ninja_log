@@ -1,0 +1,7 @@
+# ninja log v5
+239	10019	1669732177179625000	Test_task/CMakeFiles/Test_task.dir/server.cpp.o	f6983ab68e3b3afa
+10019	10572	1669732177729625000	Test_task/Test_task	95a5aee28f1a16e1
+0	3587	1669751031809625000	Test_task/CMakeFiles/Test_task.dir/server.cpp.o	f6983ab68e3b3afa
+3623	4115	1669751032339625000	Test_task/Test_task	95a5aee28f1a16e1
+10	1660	1669753566999625000	Test_task/CMakeFiles/Test_task.dir/server.cpp.o	f6983ab68e3b3afa
+1660	2014	1669753567359625000	Test_task/Test_task	95a5aee28f1a16e1

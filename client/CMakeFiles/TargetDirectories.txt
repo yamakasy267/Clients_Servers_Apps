@@ -1,0 +1,5 @@
+/root/.vs/client/CMakeFiles/rebuild_cache.dir
+/root/.vs/client/CMakeFiles/edit_cache.dir
+/root/.vs/client/client/CMakeFiles/rebuild_cache.dir
+/root/.vs/client/client/CMakeFiles/edit_cache.dir
+/root/.vs/client/client/CMakeFiles/client.dir

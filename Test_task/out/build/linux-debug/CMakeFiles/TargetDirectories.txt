@@ -1,0 +1,5 @@
+/root/.vs/Test_task/out/build/linux-debug/CMakeFiles/rebuild_cache.dir
+/root/.vs/Test_task/out/build/linux-debug/CMakeFiles/edit_cache.dir
+/root/.vs/Test_task/out/build/linux-debug/Test_task/CMakeFiles/rebuild_cache.dir
+/root/.vs/Test_task/out/build/linux-debug/Test_task/CMakeFiles/edit_cache.dir
+/root/.vs/Test_task/out/build/linux-debug/Test_task/CMakeFiles/Test_task.dir
